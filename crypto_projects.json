@@ -1,0 +1,172 @@
+[
+    {
+        "project_name": "Celestia",
+        "description": {
+            "short": "Modular blockchain network enabling scalable and interoperable applications.",
+            "full": "Celestia is a modular blockchain network that decouples consensus and data availability, allowing developers to build scalable and interoperable applications with ease. By separating these layers, Celestia provides flexibility and efficiency for deploying customized blockchains."
+        },
+        "requirements": [
+            {
+                "task": "Run a full node to participate in the network.",
+                "difficulty": "medium",
+                "deadline": ""
+            },
+            {
+                "task": "Participate in governance by staking TIA tokens.",
+                "difficulty": "easy",
+                "deadline": ""
+            }
+        ],
+        "rewards": {
+            "amount": "Variable, based on participation and staking",
+            "approximate_amount": "5000",
+            "distribution_date": "Ongoing"
+        },
+        "links": {
+            "website": "https://celestia.org",
+            "social": {
+                "twitter": "https://twitter.com/CelestiaOrg",
+                "telegram": "https://t.me/CelestiaCommunity",
+                "discord": "https://discord.gg/celestia"
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-11-29"
+    },
+    {
+        "project_name": "LayerZero",
+        "description": {
+            "short": "Omnichain interoperability protocol connecting multiple blockchains.",
+            "full": "LayerZero is an omnichain interoperability protocol designed to connect multiple blockchains seamlessly. It enables decentralized applications to operate across different networks, facilitating cross-chain communication and asset transfers without relying on intermediaries."
+        },
+        "requirements": [
+            {
+                "task": "Integrate LayerZero's protocol into existing dApps for cross-chain functionality.",
+                "difficulty": "hard",
+                "deadline": ""
+            },
+            {
+                "task": "Participate in LayerZero's testnet by conducting cross-chain transactions.",
+                "difficulty": "medium",
+                "deadline": ""
+            }
+        ],
+        "rewards": {
+            "amount": "Potential airdrops and incentives for active participation",
+            "approximate_amount": "10000",
+            "distribution_date": "To be announced"
+        },
+        "links": {
+            "website": "https://layerzero.network",
+            "social": {
+                "twitter": "https://twitter.com/LayerZero_Labs",
+                "telegram": "https://t.me/LayerZeroLabs",
+                "discord": "https://discord.gg/layerzero"
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-11-29"
+    },
+    {
+        "project_name": "Monad",
+        "description": {
+            "short": "High-performance Layer 1 blockchain optimizing scalability.",
+            "full": "Monad is an emerging Layer 1 blockchain that leverages pipelining and a Parallel Execution Engine to achieve high transaction throughput, aiming for up to 10,000 transactions per second. It focuses on scalability, security, and decentralization to enhance the blockchain ecosystem."
+        },
+        "requirements": [
+            {
+                "task": "Run a validator node to support network consensus.",
+                "difficulty": "hard",
+                "deadline": ""
+            },
+            {
+                "task": "Participate in community testing and provide feedback.",
+                "difficulty": "easy",
+                "deadline": ""
+            }
+        ],
+        "rewards": {
+            "amount": "Validator rewards and potential token incentives",
+            "approximate_amount": "15000",
+            "distribution_date": "Ongoing"
+        },
+        "links": {
+            "website": "https://monad.xyz",
+            "social": {
+                "twitter": "https://twitter.com/Monad_xyz",
+                "telegram": "",
+                "discord": "https://discord.gg/monad"
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-11-29"
+    },
+    {
+        "project_name": "EigenLayer",
+        "description": {
+            "short": "Restaking protocol enhancing Ethereum's security and innovation.",
+            "full": "EigenLayer is a restaking protocol built on Ethereum, allowing users to restake their ETH to secure additional services and protocols. This approach enhances Ethereum's security and fosters innovation by providing a shared security model for new projects."
+        },
+        "requirements": [
+            {
+                "task": "Restake ETH through EigenLayer's smart contracts.",
+                "difficulty": "easy",
+                "deadline": ""
+            },
+            {
+                "task": "Participate in governance decisions within the EigenLayer ecosystem.",
+                "difficulty": "medium",
+                "deadline": ""
+            }
+        ],
+        "rewards": {
+            "amount": "Staking rewards proportional to restaked ETH",
+            "approximate_amount": "3000",
+            "distribution_date": "Ongoing"
+        },
+        "links": {
+            "website": "https://eigenlayer.io",
+            "social": {
+                "twitter": "https://twitter.com/eigenlayer",
+                "telegram": "",
+                "discord": "https://discord.gg/eigenlayer"
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-11-29"
+    },
+    {
+        "project_name": "Jupiter",
+        "description": {
+            "short": "Solana's leading DEX aggregator offering optimal token swaps.",
+            "full": "Jupiter is the most popular decentralized exchange (DEX) aggregator on the Solana blockchain, providing users with the best token swap rates by routing trades through multiple liquidity sources. It simplifies the trading experience and maximizes efficiency for users."
+        },
+        "requirements": [
+            {
+                "task": "Perform token swaps using Jupiter's platform.",
+                "difficulty": "easy",
+                "deadline": ""
+            },
+            {
+                "task": "Provide liquidity to pools accessible via Jupiter.",
+                "difficulty": "medium",
+                "deadline": ""
+            }
+        ],
+        "rewards": {
+            "amount": "Trading fee discounts and potential liquidity provider rewards",
+            "approximate_amount": "8000",
+            "distribution_date": "Immediate upon transaction"
+        },
+        "links": {
+            "website": "https://jup.ag",
+            "social": {
+                "twitter": "https://twitter.com/JupiterExchange",
+                "telegram": "",
+                "discord": "https://discord.gg/jupiter"
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-11-29"
+    }
+]
