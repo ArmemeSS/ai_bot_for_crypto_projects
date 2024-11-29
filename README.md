@@ -18,7 +18,7 @@ OPENAI_API_KEY = "вводимо ключ до OpenAI API"
 python main.py
 ```
 
-Зібрані дані про проекти у файлі ```output_example.txt```
+Зібрані дані про проекти у файлі ```output_example.txt```. 
 Приклад результатів генерації у файлі ```crypto_projects.json```
 
 ## Документація
