@@ -18,6 +18,12 @@ OPENAI_API_KEY = "вводимо ключ до OpenAI API"
 python main.py
 ```
 
+Приклад результатів генерації у файлі ```output_example.txt```
+
+```
+python main.py
+```
+
 ## Документація
 ### src.assistant_interface
 
