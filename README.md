@@ -7,7 +7,7 @@
 pip install -r requirements.txt
 ```
 
-## Налаштовуємоємо файл config.py:
+## Налаштовуємоємо файл ```config.py```:
 
 ```
 OPENAI_API_KEY = "вводимо ключ до OpenAI API"
@@ -18,11 +18,8 @@ OPENAI_API_KEY = "вводимо ключ до OpenAI API"
 python main.py
 ```
 
-Приклад результатів генерації у файлі ```output_example.txt```
-
-```
-python main.py
-```
+Зібрані дані про проекти у файлі ```output_example.txt```
+Приклад результатів генерації у файлі ```crypto_projects.json```
 
 ## Документація
 ### src.assistant_interface
